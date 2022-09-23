@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sefatullah
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning html, css, Javascript
+- 💞️ I’m looking to collaborate on javascript project.
+- 📫 How to reach me sefatsk41@gmail.com
